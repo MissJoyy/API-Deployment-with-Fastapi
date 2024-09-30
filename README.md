@@ -58,13 +58,6 @@ In order to run this project, you will need:
 - **Python 3.7+**
 - **Docker**
 
-### Setup
-
-Clone this repository to your desired folder:
-
-
-  git clone https://github.com/your-username/fastapi-docker-deployment.git
-  cd fastapi-docker-deployment
 
 
 ### Setup
@@ -74,7 +67,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/MissJoyy/Vodafone-Customer-Churn-Prediction.git
+  git clone https://github.com/MissJoyy/API-Deployment-with-Fastapi.git
 ```
 
 Change into the cloned repository
