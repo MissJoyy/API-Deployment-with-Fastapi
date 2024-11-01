@@ -188,7 +188,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank all the free available resource made available online.
+I would like to thank my Azubi Africa Trainers Miss Rachel Appiah-Kubi and Glen Anum for their guidance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
